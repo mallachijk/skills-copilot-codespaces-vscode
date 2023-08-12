@@ -9,4 +9,4 @@ function skillsMember() {
     var member = memberText;
     var member = member.toLowerCase();
     var member = member.replace(/'/g, "");
-    var member = member.replace(/&/g, "");()
+    var member = member.replace(/&/g, "");
